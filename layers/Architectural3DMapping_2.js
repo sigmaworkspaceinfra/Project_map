@@ -1,0 +1,1 @@
+var json_Architectural3DMapping_2 = {"type":"FeatureCollection","name":"Architectural3DMapping_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Shree Mahalaxmi Temple","Descri.":"Architectural 3D Mapping"},"geometry":{"type":"Point","coordinates":[74.223171580546705,16.69743581793615]}}]}
